@@ -3,7 +3,7 @@
 ## Its_me_Dragoser
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=dragoser.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
+  [![Richuser](<img src=dragoser1.jpg>
  https://github.com/Dragomods_b1 |  
 ----|
 [Its_me_Drago](https://github.com/Richuser_b1)  |
