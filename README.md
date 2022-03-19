@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/richusir/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dragoser/Amalser_v1)
      </div>
 <br>
 <br >
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=dragoser1.jpg>
+  [![DRAGO MODS](<img src=dragoser1.jpg>
  https://github.com/Dragomods_b1 |  
 ----|
-[Its_me_Drago](https://github.com/Richuser_b1)  |
+[Its_me_Drago](https://github.com/Dragomods_b1)  |
 Base, Bug Fixes, Modules | 
   
     
